@@ -6,3 +6,4 @@ sss::swo.
 search google.
 yi er san.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
